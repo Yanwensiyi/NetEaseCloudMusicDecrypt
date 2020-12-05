@@ -17,5 +17,5 @@ next.
 
 **Note**
 
-It only works for cache files,not downloaded files(.ncm files).
+It only works on cache files,not downloaded files(.ncm files).
 You may need to play the downloaded music and find its cache file in cache directories,and use this program again.
