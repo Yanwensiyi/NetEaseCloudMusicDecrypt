@@ -14,3 +14,8 @@ You can decrypt a single cache file or files in a directories into mp3 files.
 
 All you need to do is compile this project into an executable file, then simply run it. It will prompt you what to do
 next.
+
+**Note**
+
+It only works for cache files,not downloaded files(.ncm files).
+You may need to play the downloaded music and find its cache file in cache directories,and use this program again.
